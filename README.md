@@ -87,10 +87,14 @@ For the rows make sure that the black stripe of the diode (the small orange thin
 
 2. Make sure to close NZXT CAM if you have it installed since it conflicts with the uploading for some reason.
 
-3. Add the ZIP library in code/libraries/
+3. Download the code on the repository and unzip the contents.
+
+4. Open th racingBB.inp file
+
+5. Add the ZIP library in code/libraries/
 ![](images/image.png)
 
-4. Upload the code ![](images/image-1.png)
+6. Upload the code ![](images/image-1.png)
 
 
 ## Testing
