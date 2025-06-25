@@ -88,17 +88,17 @@ For the rows make sure that the black stripe of the diode (the small orange thin
 2. Make sure to close NZXT CAM if you have it installed since it conflicts with the uploading for some reason.
 
 3. Add the ZIP library in code/libraries/
-![](image.png)
+![](images/image.png)
 
-4. Upload the code ![](image-1.png)
+4. Upload the code ![](images/image-1.png)
 
 
 ## Testing
 
 1. Set up usb game controllers
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
-2. Select "Arduino Micro" and click "Properties" ![alt text](image-3.png)
+2. Select "Arduino Micro" and click "Properties" ![alt text](images/image-3.png)
 
 3. Now make sure that every button gets recognized when pressed
 
