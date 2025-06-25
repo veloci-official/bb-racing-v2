@@ -100,9 +100,9 @@ For the rows make sure that the black stripe of the diode (the small orange thin
 ## Testing
 
 1. Set up usb game controllers
-![alt text](images/image-2.png)
+![](images/image-2.png)
 
-2. Select "Arduino Micro" and click "Properties" ![alt text](images/image-3.png)
+2. Select "Arduino Micro" and click "Properties" ![](images/image-3.png)
 
 3. Now make sure that every button gets recognized when pressed
 
@@ -114,6 +114,9 @@ For the rows make sure that the black stripe of the diode (the small orange thin
 This usually happens when you are shorting a columns/row with another. Make sure none of them are touching.
 
 
+## Mounting
+
+![](images/mounting.jpg)
 
 # 3D Models and tutorials I used
 
