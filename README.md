@@ -1,4 +1,4 @@
-[Demonstration](https://youtube.com/shorts/XMrTAcSl4VY?si=B5vYV4Wz0NkW1fMc)
+[Demonstration](https://youtube.com/shorts/acG72Uv_NjM)
 
 # Parts list
 
